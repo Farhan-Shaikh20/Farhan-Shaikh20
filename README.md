@@ -44,7 +44,7 @@ Full-Stack Development • Backend Development • Advanced DSA • AI Fundament
 
 ## 📫 Connect With Me
 
-LinkedIn: linkedin.com/in/farhanshaikh20
+## 📫 Connect With Me
 
-
-GitHub: https://github.com/Farhan-Shaikh20
+[LinkedIn](https://www.linkedin.com/in/farhanshaikh20) •
+[GitHub](https://github.com/Farhan-Shaikh20)
